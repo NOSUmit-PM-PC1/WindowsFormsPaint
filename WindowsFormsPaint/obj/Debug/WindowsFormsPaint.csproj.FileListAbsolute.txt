@@ -1,0 +1,8 @@
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\bin\Debug\WindowsFormsPaint.exe
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\bin\Debug\WindowsFormsPaint.pdb
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.csprojAssemblyReference.cache
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.Properties.Resources.resources
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.csproj.GenerateResource.cache
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.exe
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.pdb
+C:\Users\aktec\Source\Repos\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.FormMain.resources
