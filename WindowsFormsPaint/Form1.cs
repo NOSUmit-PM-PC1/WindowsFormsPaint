@@ -21,6 +21,29 @@ namespace WindowsFormsPaint
             graphics = pictureBoxCanvas.CreateGraphics();
         }
 
+        private void цветToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorDialog colorDialog = new ColorDialog();
+            if (colorDialog.ShowDialog() == DialogResult.OK)
+                pen.Color = colorDialog.Color;
+            
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            pen.Width = trackBarPenWidth.Value;
+        }
+
+        private void очиститьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            graphics.Clear(Color.White);
+        }
+
+        private void выходToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
         private void pictureBoxCanvas_MouseMove(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
